@@ -1,5 +1,5 @@
 # Automation-Anywhere
-A JavaScript based drag and drop workflow builder. This is to be used as part of a greater project to allow everyday users to bring automation to their jobs in a similar way to how Power Automate works.
+A JavaScript based drag and drop workflow builder. This is to be used as part of a greater project im working on to allow everyday users to bring automation to their jobs in a similar way to how Power Automate works.
 
 This is only part of a bigger project i'm working on and uses Flowy.js at its core. Please feel free to re-use this however you wish.
 
@@ -13,8 +13,9 @@ If you have any other suggestions on how this can be improved, drop me a message
 2. Open the index.html file in your favourite web browser.
 
 ## Credit
-**Show some love to Alyssa X for creating Flowy.js. Website and online demo below.**
+**Show some love to Alyssa X for creating Flowy.js. Website, Github and online demo below.**
 ```
 https://alyssax.com/
 https://alyssax.com/x/flowy/
+https://github.com/alyssaxuu/flowy
 ```
