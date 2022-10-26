@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>closeleft-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #b3b6c9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+	</style>
+	<path id="Layer" class="s0" d="m13 7l5 5-5 5"/>
+	<path id="Layer" class="s0" d="m6 7l5 5-5 5"/>
+</svg>
